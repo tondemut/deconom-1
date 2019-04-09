@@ -3362,6 +3362,12 @@ input, select, textarea {
 			margin: 0 0 1.3em 0;
 		}
 
+		.responsive {
+			width: 100%;
+			max-width: 500px;
+			height: auto;
+		}
+
 			#banner .logo .icon {
 				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
